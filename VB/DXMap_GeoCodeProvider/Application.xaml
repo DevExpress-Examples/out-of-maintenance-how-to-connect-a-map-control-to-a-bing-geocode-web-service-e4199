@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="DXMap_GeoCodeProvider.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">88-5E-75-F2-49-0A-F3-5E-AB-7F-CD-33-E9-88-E8-C8-D3-AF-8F-3A</my:String>
+  </Application.Resources>
+</Application>

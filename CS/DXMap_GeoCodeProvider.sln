@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXMap_GeoCodeProvider", "DXMap_GeoCodeProvider\DXMap_GeoCodeProvider.csproj", "{BD03C321-DDC1-4C44-8108-5F8A2C56F715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXMap_GeoCodeProvider.Web", "DXMap_GeoCodeProvider.Web\DXMap_GeoCodeProvider.Web.csproj", "{49F898C2-D166-463B-89B2-C96394387221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD03C321-DDC1-4C44-8108-5F8A2C56F715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD03C321-DDC1-4C44-8108-5F8A2C56F715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD03C321-DDC1-4C44-8108-5F8A2C56F715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD03C321-DDC1-4C44-8108-5F8A2C56F715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F898C2-D166-463B-89B2-C96394387221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F898C2-D166-463B-89B2-C96394387221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F898C2-D166-463B-89B2-C96394387221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F898C2-D166-463B-89B2-C96394387221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
