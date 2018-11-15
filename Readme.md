@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainPage.xaml](./CS/DXMap_Geocode/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DXMap_Geocode/MainPage.xaml.vb))**
+* [MainPage.xaml.cs](./CS/DXMap_Geocode/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXMap_Geocode/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to connect a map control to a Bing GeoCode web service
 
 
