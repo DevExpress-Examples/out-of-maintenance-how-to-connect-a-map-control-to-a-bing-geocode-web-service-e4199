@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/DXMap_GeoCodeProvider/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXMap_GeoCodeProvider/MainPage.xaml))
 <!-- default file list end -->
 # How to connect a map control to a Bing GeoCode web service
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4199)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to provide the capability for end-users to click on a map and get detailed information about this place, thanks to the Bing GeoCode web service.</p><br />
